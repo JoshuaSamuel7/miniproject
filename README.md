@@ -1,6 +1,6 @@
-**Food Waste Management System**
+![4](https://github.com/user-attachments/assets/19079d9e-98ce-4fd3-b7c2-6cdc04856a04)#**Food Waste Management System**
 
-## **Small Description about the Project**
+
 The integration of an efficient and automated food waste management system aimed at reducing food wastage, promoting food donation, and improving resource distribution to those in need. This system utilizes advanced algorithms and real-time data processing to optimize the donation and request process for food items, ensuring a seamless experience for both donors and recipients.
 
 ## **About**
@@ -35,10 +35,13 @@ The system follows a client-server architecture with the frontend interacting wi
 
 ## **Output**
 **Output 1** - 
+![4](https://github.com/user-attachments/assets/3c00d904-0cb9-4a8b-9deb-8598e79e7fb2)
 
 **Output 2** -
-
+![6](https://github.com/user-attachments/assets/a6d7718e-f619-4bb2-9286-6aaefe07b45e)
 **Output 3** -
+
+![7](https://github.com/user-attachments/assets/990acacf-ccd2-48b3-b969-a9a74c0eb494)
 
 
 ## **Results and Impact**
