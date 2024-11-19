@@ -1,4 +1,4 @@
-## **Food Waste Management System**
+# **Food Waste Management System**
 
 
 The integration of an efficient and automated food waste management system aimed at reducing food wastage, promoting food donation, and improving resource distribution to those in need. This system utilizes advanced algorithms and real-time data processing to optimize the donation and request process for food items, ensuring a seamless experience for both donors and recipients.
